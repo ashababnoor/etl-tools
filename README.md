@@ -5,5 +5,9 @@ Tools for extracting, transforming and loading data from one source to another
 
 ### Available Tools
 - **MySQL to PostgreSQL ETL**  
-  Tool for moving data from MySQL to PostgreSQL  
-  Code: `etl-tools/mysql-postgres-etl`
+  <code>[WIP]</code> Tool for moving data from MySQL to PostgreSQL  
+  Location: `etl-tools/mysql-postgres-etl`
+
+- **PostgreSQL to Redis Ingestor**
+  <code>[WIP]</code> Tool for ingesting data from PostgreSQL to Redis  
+  Location: `etl-tools/postgres-redis-ingestor`
